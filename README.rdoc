@@ -1,4 +1,3 @@
 == README
 
-This is the finance tracker app from the Complete Ruby on Rails Developer
-Course.
+A basic finance tracking application, made for the purpose of learning the Ruby on Rails framework.
